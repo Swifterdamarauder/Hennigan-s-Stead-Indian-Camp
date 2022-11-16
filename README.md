@@ -1,4 +1,4 @@
-# Hennigan's Indian Camp
+# Hennigan's Indian Camp (YMAP)
 My first attempt at making a indian camp for RedM. Hope you all enjoy it!
 
 # Screenshot of Camp
